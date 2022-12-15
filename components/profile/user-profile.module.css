@@ -1,0 +1,17 @@
+.profile {
+  margin: 6rem auto;
+  text-align: center;
+}
+
+.profile h1 {
+  font-size: 3rem;
+}
+
+@media screen and (min-width: 768px) {
+  .profile {
+    margin: 3rem auto;
+  }
+  .profile h1 {
+    font-size: 5rem;
+  }
+}
